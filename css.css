@@ -83,7 +83,7 @@ h1,h2,h3,h4 {
   width:16px;
   height:0px;
   z-index:1;
-  background:rgba(229,197,57,1);
+  background:rgb(43, 175, 236);
   transition:0s;
 }
 #pour.pouring {
@@ -136,10 +136,10 @@ h1,h2,h3,h4 {
   background:
     linear-gradient(
        rgba(255,255,255,1) 0%,
-      rgba(255,255,255,1) 35%,
-      rgba(237,237,173,1) 43%,
-      rgba(229,197,57,1) 44%,
-      rgba(229,197,57,1) 100%    
+      rgb(135, 221, 247) 35%,
+      rgb(43, 175, 236) 43%,
+      rgb(57, 175, 229) 44%,
+      rgb(82, 30, 226) 100%    
     );
   background-repeat: repeat;
   background-size:100% 200%;
